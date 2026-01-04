@@ -1,0 +1,1 @@
+the goal of this project is to use the skills i have gained so far to make a simple landing page, will update this readme when i am finally done.
